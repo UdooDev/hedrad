@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_scan_product_user,access.scan.serial,scan_import_serial.model_scan_serial,base.group_user,1,1,1,1
+access_scan_serial_product_user,access.scan.serial.number,scan_import_serial.model_scan_serial_item,base.group_user,1,1,1,1
+=======
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_scan_product_user,access.scan.serial,scan_import_serial.model_scan_serial,base.group_user,1,1,1,1
+access_scan_serial_product_user,access.scan.serial.number,scan_import_serial.model_scan_serial_item,base.group_user,1,1,1,1
+>>>>>>> 273baebb3138c0cec0f5b0ba3b4242f193f3b7dd
